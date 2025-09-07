@@ -1,4 +1,4 @@
-# 🍔 **Tastory** – *Chomp Town – Where Burgers Rule!*
+# 🍔 **Munch Time** – *Chomp Town – Where Burgers Rule!*
 
  
 
@@ -77,9 +77,8 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 ## 📬 Contact
 
-**Harsh Rana** – [GitHub](https://github.com/harshrana3519) • [LinkedIn](https://www.linkedin.com/in/harshrana3519) 
+**Priyanshu singhal** – [GitHub](https://github.com/Priyanshu0625) • [LinkedIn](https://www.linkedin.com/in/priyanshusinghal25/)) 
 
-Project Link: [https://github.com/harshrana3519/tastory](https://github.com/harshrana3519/tastory)
 
 ---
 
