@@ -2,7 +2,7 @@
 
  
 
-> **Tastory** is a fully‑responsive fast‑food landing site that brings the *sizzle* of Chomp Town’s legendary burgers to any device. Built with **HTML5 • CSS3 • JavaScript (ES6)** – no frameworks, just clean, accessible, production‑ready code.
+> **Munch Time** is a fully‑responsive fast‑food landing site that brings the *sizzle* of Chomp Town’s legendary burgers to any device. Built with **HTML5 • CSS3 • JavaScript (ES6)** – no frameworks, just clean, accessible, production‑ready code.
 
 ---
 
