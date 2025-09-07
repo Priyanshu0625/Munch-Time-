@@ -45,7 +45,7 @@
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/harshrana3519/tastory.git
+$ git clone https://github.com/Priyanshu0625/Munch Time.git
 
 # Open index.html in your browser
 $ cd tastory/public && start index.html   # Windows
